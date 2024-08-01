@@ -54,7 +54,7 @@
 ```
 ########50 characters############################
 Scope / Description with fix, feat (SemVer)
-Contributing-to: https://kennedymakhanu1.atlassian.net/browse/<JIRA-TICKET>
+Contributing-to: https://wemadevops.atlassian.net/jira/software/projects/WD102/boards/4?selectedIssue=JIRA-#
 ########72 characters##################################################
 Problem
 # Problem, Task, Reason for Commit
